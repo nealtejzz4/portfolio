@@ -19,7 +19,7 @@ export const profile = {
 
 export const projects = [
   {
-    title: 'Glitch Game 2',
+    title: 'Glitch Game',
     stack: 'Java • Swing • OOP • UI Design • Game Logic',
     description:
       'A desktop-based puzzle game built using Java, featuring interactive UI challenges and unconventional gameplay mechanics. The game uses a retro system theme with dynamic elements like moving components, pop-up interactions, and logic-based puzzles to create an engaging experience.',
