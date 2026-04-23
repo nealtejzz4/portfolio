@@ -3,7 +3,7 @@ export const profile = {
   phone: '7997631111',
   personalEmail: 'nealteja@gmail.com',
   collegeEmail: 'se23umcs004@mahindrauniversity.edu.in',
-  photo: '/profile-photo.png',
+  photo: `${import.meta.env.BASE_URL}profile-photo.png`,
   about:
     'A B.Tech Integrated CSE student building practical skills in software development, web technologies, and problem solving through coursework, training, and hands-on projects.',
   aboutMe:
